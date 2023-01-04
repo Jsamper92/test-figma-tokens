@@ -1,0 +1,28 @@
+{
+  "name": "test-figma-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run translate:token && node build.js ",
+    "translate:token": "token-transformer tokens.json build/tokens/parsed-tokens.json global",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsamper92/test-figma-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsamper92/test-figma-tokens/issues"
+  },
+  "homepage": "https://github.com/Jsamper92/test-figma-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.2"
+  },
+  "dependencies": {
+    "token-transformer": "^0.0.28"
+  }
+}
