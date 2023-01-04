@@ -25,7 +25,7 @@
       "type": "spacing"
     }
   },
-  "sizing": {
+  "size": {
     "scale": {
       "value": 1.5,
       "type": "sizing"
@@ -95,7 +95,7 @@
       "type": "borderWidth"
     }
   },
-  "colors": {
+  "color": {
     "black": {
       "value": "#000000",
       "type": "color"

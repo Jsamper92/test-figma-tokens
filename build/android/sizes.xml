@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 04 Jan 2023 18:21:17 GMT
+-->
+<resources>
+  <dimen name="size_scale">24.00dp</dimen>
+  <dimen name="size_xs">64.00dp</dimen>
+  <dimen name="size_sm">96.00dp</dimen>
+  <dimen name="size_md">144.00dp</dimen>
+  <dimen name="size_lg">216.00dp</dimen>
+  <dimen name="size_xl">324.00dp</dimen>
+  <dimen name="size_xxl">486.00dp</dimen>
+  <dimen name="size_xxxl">729.01dp</dimen>
+  
+</resources>
