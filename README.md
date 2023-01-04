@@ -1,4 +1,4 @@
-# Test figma tokens
+# Test Studio Figma Tokens plugin
 
 Repository to test design tokens brought from figma through the Tokens Studio Figma plugin.
 
